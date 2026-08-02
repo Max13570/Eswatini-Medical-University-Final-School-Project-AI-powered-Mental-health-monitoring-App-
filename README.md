@@ -1,8 +1,5 @@
-Perfect — since you’ve added more screenshots of the project’s structure, I’ll extend the **README.md** to reflect the multi-role architecture (Admin, Doctor, Patient, Receptionist) and the Dart screens you’ve shown. Here’s an updated draft:
 
----
-
-# AI Mental Health Monitoring & Telemedicine Application
+# AI Powered Mental Health Monitoring Application
 
 ## 📖 Overview
 This project is a **Flutter-based healthcare and mental health monitoring system**. It combines **AI-driven mental health detection** with **telemedicine features** such as video consultations, appointment scheduling, and role-based dashboards for doctors, patients, receptionists, and administrators.
